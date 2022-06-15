@@ -31,6 +31,8 @@ The analysis of the election show that:
 
 ## OutPut File
 Below is an image of the output election_results.txt file after running the code
+
+
 <img width="389" alt="Screen Shot 2022-06-15 at 4 52 49 PM" src="https://user-images.githubusercontent.com/102444078/173960967-0bed3d8c-0f7d-4e00-8a68-15f43f951aa2.png">
 
 
