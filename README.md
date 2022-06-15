@@ -28,6 +28,13 @@ The analysis of the election show that:
 - The winner of the election was: 
   - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 
+
+## OutPut File
+<img width="389" alt="Screen Shot 2022-06-15 at 4 52 49 PM" src="https://user-images.githubusercontent.com/102444078/173960967-0bed3d8c-0f7d-4e00-8a68-15f43f951aa2.png">
+
+
+
+
 ## Challenge Overview
 
 ## Challenge Summary 
