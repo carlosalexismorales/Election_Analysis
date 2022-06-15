@@ -39,5 +39,18 @@ Below is an image of the output election_results.txt file after running the code
 
 
 ## Challenge Overview
+To help Seth and Tom submit the election audit results to the election commission and addressing the The election commission's additional data request to complete the audit:
+
+The voter turnout for each county
+The percentage of votes from each county out of the total count
+The county with the highest turnout
+
+1. The data we need to retrieve.
+2. Using loops to calculate the total number of votes cast
+3. Get a complete list of candidates who received votes.
+4. Calculate the total number of votes each candidate received.
+5. Calculate the percentage of votes each candidate won.
+6. Determine the winner of the election based on popular vote.
+
 
 ## Challenge Summary 
