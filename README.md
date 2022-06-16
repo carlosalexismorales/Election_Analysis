@@ -67,8 +67,11 @@ With the election_results.txt file located in the resources folder, which is als
   Denver
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Charles Casper Stockham: 23.0% (85,213)
+  Had the second smallest/largest number of votes and percentage of votes; 2nd Place
   - Diana DeGette: 73.8% (272,892)
+  Had the largest number and highest percentage of votes; 1st Place
   - Raymon Anthony Doane: 3.1% (11,606)
+  Had the smaller number and smallest percentage of votes; 3rd Place
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - Winner: Diana DeGette
   - Winning Vote Count: 272,892
