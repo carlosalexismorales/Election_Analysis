@@ -47,7 +47,7 @@ To help Seth and Tom submit the election audit results to the election commissio
 
 
 ## Overview of Election Audit
-The purpose of this election audit analysis is to breakdown Colorado's election and review whether the votes were counted accurately (a results audit) and to unconver further analysis. We want to complete the additonal data requests from the election commission to so that they can tell a complete story of the results of the election. This is done for quality management, but also to protect the official election results from undetected fraud and error. We want to see what the data tells us when we complete and analyze the results. For example, determing the county with the highest turnout can tells us which area was most active in the vote when the election results are declared final. This can lead to more analysis and can provide us with more context as to why that specific county had the highest turnout. 
+The purpose of this election audit analysis is to breakdown Colorado's election and review whether the votes were counted accurately (a results audit) and to uncover further analysis. We want to complete the additonal data requests from the election commission to so that they can tell a complete story of the results of the election. This is done for quality management, but also to protect the official election results from undetected fraud and error. We want to see what the data tells us when we complete and analyze the results. For example, determing the county with the highest turnout can tells us which area was most active in the vote when the election results are declared final. This can lead to more analysis and can provide us with more context as to why that specific county had the highest turnout. 
 
 
 ## Election Audit Results 
@@ -58,8 +58,11 @@ With the election_results.txt file located in the resources folder, which is als
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
    - County Votes:
     - Jefferson: 10.5% (38,855)
-    - Denver: 82.8% (306,055)
+    Had the second smallest/largest number of votes and percentage of votes
+    - Denver: 82.8% (306,055) 
+    Had the largest number and highest percentage of votes
     - Arapahoe: 6.7% (24,801)
+    Had the smaller number and smallest percentage of votes
  - Which county had the largest number of votes?
   Denver
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
