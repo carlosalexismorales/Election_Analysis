@@ -64,8 +64,8 @@ The purpose of this election audit analysis is to breakdown Colorado's election 
 ## Election Audit Results 
 With the out file located in the resources folder we answer the following points and questions:
 
-How many votes were cast in this congressional election?
-Total Votes: 369,711
+- How many votes were cast in this congressional election?
+-- Total Votes: 369,711
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 County Votes:
 Jefferson: 10.5% (38,855)
