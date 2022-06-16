@@ -64,7 +64,7 @@ With the election_results.txt file located in the resources folder, which is als
     - Arapahoe: 6.7% (24,801)
     Had the smaller number and smallest percentage of votes
  - Which county had the largest number of votes?
-  Denver
+    Denver
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Charles Casper Stockham: 23.0% (85,213)
   Had the second smallest/largest number of votes and percentage of votes; 2nd Place
