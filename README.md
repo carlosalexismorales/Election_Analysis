@@ -77,7 +77,7 @@ With the election_results.txt file located in the resources folder, which is als
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
 
-Colorado saw three counties tally up to 369,711 votes. The biggest of the counties with a 82.8% was Denver. We processed the votes for three candidates of Charles, Diana, and Raymon. With 73.8% of the votes towards Diana DeGette, that is 272,892 of the 369,711 total votes.
+There were three counties in Colorado: Jefferson, Denver, and Arapahoe,  whose votes totaled 369,711 votes. Denver had the biggest voter turnout with 82.8%. There were 3 candidates that each had votes: Charles, Diana, and Raymon. Diana DeGette had 73.8% of the votes which is 272,892 of the 369,711 total votes.
 
 
 ## OutPut File
@@ -85,3 +85,6 @@ Below is an image of the output election_results.txt file after running the code
 
 
 <img width="472" alt="Screen Shot 2022-06-15 at 5 02 51 PM" src="https://user-images.githubusercontent.com/102444078/173961824-a41e26a2-b0c9-47a2-b369-85791627e20a.png">
+
+
+## Election Audit Summary 
