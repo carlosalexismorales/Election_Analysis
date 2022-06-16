@@ -88,3 +88,8 @@ Below is an image of the output election_results.txt file after running the code
 
 
 ## Election Audit Summary 
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+In an election, it is pivotal that the data that is being gathered is accounted for with accuracy and integrity. To avoid any mishaps or mistakes when tallying the voting count, this code can precisely determine information such as voter turnout, voting percentages, and electoin winner, just to name a few. There are various ways in which the integrity of elections can be affected or manipulated. Election results may be improperly tallied or reported, however, with the way this code is scripted, it is able to get rid of any inaccuracies that may be introduced by human error or because of a lack of proper oversight. This is code is structured in a way to allow for multiple modifications for any elections. For exmaple, one example is changing the script of the code so it can read and extract data from CSV files. As of right now, it is only extracting data from one specific file "election_results.csv", but this can be changed so the code can load and read data from multiples files. That way, if there is more than one file that the election commission needs to extarct data from, this code can refactored to do so. 
+
+
