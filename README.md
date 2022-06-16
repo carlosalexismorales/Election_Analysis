@@ -62,7 +62,7 @@ The purpose of this election audit analysis is to breakdown Colorado's election 
 
 
 ## Election Audit Results 
-With the out file located in the resources folder we answer the following points and questions:
+With the election_results.txt file located in the resources folder we answer the following points and questions:
 
 - How many votes were cast in this congressional election?
   - Total Votes: 369,711
@@ -72,7 +72,7 @@ With the out file located in the resources folder we answer the following points
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
  - Which county had the largest number of votes?
-  - Denver
+  Denver
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Charles Casper Stockham: 23.0% (85,213)
   - Diana DeGette: 73.8% (272,892)
