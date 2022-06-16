@@ -2,7 +2,7 @@
 Using Python to help audit and analyze Colorado's election 
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent logal congressional election.
+A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent logal congressional election.
 
 1. Calculate the total number of votes cast. 
 2. Get a complete list of candidates who received votes.
@@ -29,17 +29,6 @@ The analysis of the election show that:
   - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 
 
-## OutPut File
-Below is an image of the output election_results.txt file after running the code
-
-
-<img width="472" alt="Screen Shot 2022-06-15 at 5 02 51 PM" src="https://user-images.githubusercontent.com/102444078/173961824-a41e26a2-b0c9-47a2-b369-85791627e20a.png">
-
-
-
-
-
-
 ## Challenge Overview
 To help Seth and Tom submit the election audit results to the election commission and addressing the election commission's additional data request to complete the audit:
 
@@ -62,7 +51,7 @@ The purpose of this election audit analysis is to breakdown Colorado's election 
 
 
 ## Election Audit Results 
-With the election_results.txt file located in the resources folder we answer the following points and questions:
+With the election_results.txt file located in the resources folder, which is also shown in the next header, we answer the following points and questions:
 
 - How many votes were cast in this congressional election?
   - Total Votes: 369,711
@@ -83,3 +72,10 @@ With the election_results.txt file located in the resources folder we answer the
   - Winning Percentage: 73.8%
 
 Colorado saw three counties tally up to 369,711 votes. The biggest of the counties with a 82.8% was Denver. We processed the votes for three candidates of Charles, Diana, and Raymon. With 73.8% of the votes towards Diana DeGette, that is 272,892 of the 369,711 total votes.
+
+
+## OutPut File
+Below is an image of the output election_results.txt file after running the code
+
+
+<img width="472" alt="Screen Shot 2022-06-15 at 5 02 51 PM" src="https://user-images.githubusercontent.com/102444078/173961824-a41e26a2-b0c9-47a2-b369-85791627e20a.png">
