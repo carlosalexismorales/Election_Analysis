@@ -33,13 +33,15 @@ The analysis of the election show that:
 Below is an image of the output election_results.txt file after running the code
 
 
-<img width="389" alt="Screen Shot 2022-06-15 at 4 52 49 PM" src="https://user-images.githubusercontent.com/102444078/173960967-0bed3d8c-0f7d-4e00-8a68-15f43f951aa2.png">
+<img width="472" alt="Screen Shot 2022-06-15 at 5 02 51 PM" src="https://user-images.githubusercontent.com/102444078/173961824-a41e26a2-b0c9-47a2-b369-85791627e20a.png">
+
+
 
 
 
 
 ## Challenge Overview
-To help Seth and Tom submit the election audit results to the election commission and addressing the The election commission's additional data request to complete the audit:
+To help Seth and Tom submit the election audit results to the election commission and addressing the election commission's additional data request to complete the audit:
 
 -- The voter turnout for each county
 
@@ -55,4 +57,28 @@ To help Seth and Tom submit the election audit results to the election commissio
 6. Determine the winner of the election based on popular vote.
 
 
-## Challenge Summary 
+## Overview of Election Audit
+The purpose of this election audit analysis is to breakdown Colorado's election and review whether the votes were counted accurately (a results audit) and to unconver further analysis. We want to complete the additonal data requests from the election commission to so that they can tell a complete story of the results of the election. This is done for quality management, but also to protect the official election results from undetected fraud and error. We want to see what the data tells us when we complete and analyze the results. For example, determing the county with the highest turnout can tells us which area was most active in the vote when the election results are declared final. This can lead to more analysis and can provide us with more context as to why that specific county had the highest turnout. 
+
+
+## Election Audit Results 
+With the out file located in the resources folder we answer the following points and questions:
+
+How many votes were cast in this congressional election?
+Total Votes: 369,711
+Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+Which county had the largest number of votes?
+Denver
+Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+Colorado saw three counties tally up to 369,711 votes. The biggest of the counties with a 82.8% was Denver. We processed the votes for three candidates of Charles, Diana, and Raymon. With 73.8% of the votes towards Diana DeGette, that is 272,892 of the 369,711 total votes.
